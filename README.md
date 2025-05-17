@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction
+# 🚢 [Titanic Survival Prediction](https://logistic-regression-titanic.streamlit.app/)
 
 This project demonstrates a machine learning workflow using **logistic regression** to predict passenger survival on the Titanic.
 
